@@ -1,6 +1,7 @@
 ## Password-Generator
 
-##Purpose
+## Purpose
+
 A website that offers help with generating passwords based on the criteria you ask for.
 
 ## Built With
@@ -8,7 +9,7 @@ HTML
 CSS
 JS
 
-##Website
+## Website
 
 
 Contribution
