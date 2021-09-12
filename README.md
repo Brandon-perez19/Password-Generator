@@ -11,6 +11,8 @@ JS
 
 ## Website
 
+## Screen Shot of Running Application
+![](Assets/Images/Screen-Shot.png)
 
 Contribution
 Made with ❤️️ by Brandon
